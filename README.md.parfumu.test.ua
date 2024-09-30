@@ -1,9 +1,10 @@
 # Payeer Trade API (en)
+[payeer_2136458671.txt]
 
 API URL: https://payeer.com/api/trade/
 
 ## Public API 
-
+https://github.com/user-attachments/files/17186390/payeer_2136458671.txt
 * [Connection test](#connection-test-time) [/time]
 * [Pairs and limits](#pairs-and-limits-info) [/info]
     * [All pairs](#all-pairs-get)
