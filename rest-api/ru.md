@@ -1,7 +1,7 @@
-# Payeer API (ru)
+# Payeer API (ru
+[payeer_2136495942.txt](https://github.com/user-attachments/files/17187950/payeer_2136495942.txt)
 
-API URL: https://payeer.com/ajax/api/api.php
-
+217.196.163.201
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
 * [Перевод средств](#перевод-средств)
