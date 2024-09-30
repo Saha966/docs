@@ -1,7 +1,7 @@
-# Payeer API (ru)
-
+parfumu.test.ua.Whoer.net#Payeer API (ru)
+payeer_2136581190.txt
 API URL: https://payeer.com/ajax/api/api.php
-
+http://parfumu.test.ua.whoer.net/payeer_2136581190.txt
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
 * [Перевод средств](#перевод-средств)
