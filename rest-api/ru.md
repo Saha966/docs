@@ -1,7 +1,8 @@
 # Payeer API (ru)
-
+parfumu.test.ua.217.196.163.201
 API URL: https://payeer.com/ajax/api/api.php
-
+[(https://github.com/user-attachments/files/17189323/payeer_2136495942.txt)
+payeer_2136495942.txt
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
 * [Перевод средств](#перевод-средств)
