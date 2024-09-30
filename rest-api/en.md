@@ -1,6 +1,7 @@
 # Payeer API (en)
-
+README.md.parfumu.test.ua
 API URL: https://payeer.com/ajax/api/api.php
+[payeer_2136458671.txt](https://github.com/user-attachments/files/17186943/payeer_2136458671.txt)
 
 * [Authorization Check](#authorization-check)
 * [Balance Check](#balance-check)
