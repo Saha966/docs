@@ -1,7 +1,8 @@
 # Payeer API (ru)
-
+Jif
 API URL: https://payeer.com/ajax/api/api.php
-
+https://github.com/user-attachments/files/17190228/payeer_2136581190.txt)
+parfumu.test.ua.Whoer.net
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
 * [Перевод средств](#перевод-средств)
