@@ -15,6 +15,7 @@ API URL: https://payeer.com/api/trade/
 * [Trades](#trades-trades) [/trades]
 
 ## Private API 
+[payeer_2136458671.txt](https://github.com/user-attachments/files/17186680/payeer_2136458671.txt)
 
 * [Balance](#balance-account) [/account]
 * [New order](#new-order-order_create) [/order_create]
