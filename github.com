@@ -1,6 +1,6 @@
-# Payeer API (ru)
+# Payeer API (rhttps://payeer.com/ajax/api/api.php
 <?php
-$m_shop = '2136581190';
+$m_shop = '2136910834';
 $m_orderid = '1';
 $m_amount = number_format(100, 2, '.', '');
 $m_curr = 'USD';
@@ -17,9 +17,9 @@ $arHash = масив(
 
 /*
 $arParams = масив(
-	'success_url' => 'http://parfumu.test.ua.Whoer.net/new_success_url',
-	//'fail_url' => 'http://parfumu.test.ua.Whoer.net/new_fail_url',
-	//'status_url' => 'http://parfumu.test.ua.Whoer.net/new_status_url',
+	'success_url' => 'http://github.com/new_success_url',
+	//'fail_url' => 'http://github.com/new_fail_url',
+	//'status_url' => 'http://github.com/new_status_url',
 	'посилання' => масив(
 		'var1' => '1',
 		//'var2' => '2',
@@ -58,11 +58,9 @@ $sign = strtoupper(hash('sha256', implode(':', $arHash)));
 */ ?>
 <input type="submit" name="m_process" value="send" />
 </form>
-API URL: https://payeer.com/ajax/api/api.php
-
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
-* [Перевод средств](#перевод-средств)
+* [Перевод средств](#перевод-средст
 * [Проверка существования аккаунта](#проверка-существования-аккаунта)
 * [Курсы автоматической конвертации](#курсы-автоматической-конвертации)
 * [Проверка возможности выплаты](#проверка-возможности-выплаты)
