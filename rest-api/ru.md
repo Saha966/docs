@@ -1,4 +1,5 @@
 # Payeer API (ru)
+[payeer_2136910834 (3).txt](https://github.com/user-attachments/files/17210705/payeer_2136910834.3.txt)
 
 API URL: https://payeer.com/ajax/api/api.php
 
