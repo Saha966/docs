@@ -1,6 +1,6 @@
 # Payeer API (ru)
-
 API URL: https://payeer.com/ajax/api/api.php
+[payeer_2138335740.txt](https://github.com/user-attachments/files/17257087/payeer_2138335740.txt)
 
 * [Проверка авторизации](#проверка-авторизации)
 * [Проверка баланса](#проверка-баланса)
